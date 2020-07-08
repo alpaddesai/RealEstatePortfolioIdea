@@ -1,0 +1,40 @@
+﻿<Window x:Class="RealEstatePortfolio.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RealEstatePortfolio"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="784" Width="1155" MaxWidth="1155" MaxHeight="784">
+    <Grid Margin="0,0,20,10">
+        <TabControl>
+            <TabItem Header="Data">
+                <Grid>
+                    <Grid.Background>
+                        <ImageBrush/>
+                    </Grid.Background>
+                    <Image Margin="539,-1,-18,16" Stretch="Fill" Source="/Data3.png" MaxWidth="563" MaxHeight="727"/>
+                    <Image Margin="9,0,570,8" Stretch="Fill" Source="Data1.png" MaxWidth="550" MaxHeight="722"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Trends">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="10*"/>
+                        <RowDefinition Height="219*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3*"/>
+                        <ColumnDefinition Width="15*"/>
+                        <ColumnDefinition Width="0*"/>
+                        <ColumnDefinition Width="5*"/>
+                        <ColumnDefinition Width="1019*"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.ColumnSpan="5" Margin="0,0,251,245" Grid.RowSpan="2" Stretch="Fill" Source="pack://siteoforigin:,,,/Image2.png"/>
+                    <Image Grid.Column="1" Margin="12,-1,22,18" Stretch="Fill" Source="/image.png" Grid.ColumnSpan="4" Grid.RowSpan="2"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>
