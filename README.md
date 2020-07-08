@@ -11,3 +11,4 @@ Please download the executable in https://github.com/alpaddesai/RealEstatePortfo
 
 
 ## Real Estate Trends
+![image](Trends.png)
