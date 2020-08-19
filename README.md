@@ -13,4 +13,4 @@ Please download the executable in https://github.com/alpaddesai/RealEstatePortfo
 ## Real Estate Trends
 ![image](Trends.png)
 
-Related topics include: https://github.com/alpaddesai/Sales  and https://github.com/alpaddesai/FinancialAdvice
+Related topics include: https://github.com/alpaddesai/Sales,  https://github.com/alpaddesai/FinancialAdvice and https://github.com/alpaddesai/OptimalCapitalStructure
