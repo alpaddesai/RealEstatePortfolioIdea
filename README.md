@@ -9,4 +9,5 @@ Please download the executable in https://github.com/alpaddesai/RealEstatePortfo
 ## Real Estate Data
 ![image](BurlingtonImage.png)
 
+
 Related topics include: https://github.com/alpaddesai/Sales,  https://github.com/alpaddesai/FinancialAdvice and https://github.com/alpaddesai/OptimalCapitalStructure
