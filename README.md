@@ -7,6 +7,6 @@ Confidential information is not displayed.Images are custom.
 Please download the executable in https://github.com/alpaddesai/RealEstatePortfolio/releases
 
 ## Real Estate Data
-![image](Burlington.png)
+
 
 Related topics include: https://github.com/alpaddesai/Sales,  https://github.com/alpaddesai/FinancialAdvice and https://github.com/alpaddesai/OptimalCapitalStructure
