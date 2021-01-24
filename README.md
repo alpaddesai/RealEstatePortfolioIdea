@@ -10,3 +10,5 @@ Please download the executable in https://github.com/alpaddesai/RealEstatePortfo
 ![image](RealEstateImage.png)
 
 Related topics include: https://github.com/alpaddesai/Sales,  https://github.com/alpaddesai/FinancialAdvice, https://github.com/alpaddesai/BenefitsOfFitnessRoutine, https://github.com/alpaddesai/HealthBenefitsOfTraveling, https://github.com/alpaddesai/BenefitsofMoving, https://github.com/alpaddesai/EarlyChildHoodEducation , https://github.com/alpaddesai/BenefitsOfLivingAbroad and https://github.com/alpaddesai/OptimalCapitalStructure
+
+![image](USCopyrightCertificateofRegistration.png)
