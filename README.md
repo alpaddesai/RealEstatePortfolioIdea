@@ -9,6 +9,6 @@ Please download the executable in https://github.com/alpaddesai/RealEstatePortfo
 ## Real Estate Data
 ![image](RealEstateImage.png)
 
-Related topics include: https://github.com/alpaddesai/Sales,  https://github.com/alpaddesai/FinancialAdvice, https://github.com/alpaddesai/BenefitsOfFitnessRoutine, https://github.com/alpaddesai/HealthBenefitsOfTraveling, https://github.com/alpaddesai/BenefitsofMoving, https://github.com/alpaddesai/EarlyChildHoodEducation , https://github.com/alpaddesai/BenefitsOfLivingAbroad,  https://github.com/alpaddesai/OptimalCapitalStructure , https://github.com/alpaddesai/PowerandInfluentialSkills and and https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations.
+Related topics include: https://github.com/alpaddesai/Sales,  https://github.com/alpaddesai/FinancialAdvice, https://github.com/alpaddesai/BenefitsOfFitnessRoutine, https://github.com/alpaddesai/HealthBenefitsOfTraveling, https://github.com/alpaddesai/BenefitsofMoving, https://github.com/alpaddesai/EarlyChildHoodEducation , https://github.com/alpaddesai/BenefitsOfLivingAbroad,  https://github.com/alpaddesai/OptimalCapitalStructure , https://github.com/alpaddesai/PowerandInfluentialSkills and  https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations.
 
 ![image](USCopyrightCertificateofRegistration.png)
