@@ -9,7 +9,7 @@ Please download the executable in https://github.com/alpaddesai/RealEstatePortfo
 ## Real Estate Data
 ![image](RealEstateImage.png)
 
-## Cities by GDP
+## Cities by Gross Domestic Product
 ![image](Indian_cities_GDP_2021.jpg)
 
 ## Property Law in UK
