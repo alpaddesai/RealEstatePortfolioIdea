@@ -12,6 +12,9 @@ Please download the executable in https://github.com/alpaddesai/RealEstatePortfo
 ## Cities by Gross Domestic Product
 ![image](Indian_cities_GDP_2021.jpg)
 
+## Cities by Gross Domestic Product
+![image](GrossDomesticProduct.png)
+
 ## Property Law in UK
 ![image](propertylaw_UK.jpg)
 
