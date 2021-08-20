@@ -10,7 +10,7 @@ Please download the executable in https://github.com/alpaddesai/RealEstatePortfo
 ![image](RealEstateImage.png)
 
 ## Cities by Gross Domestic Product
-![image](Indian_cities_GDP_2021.jpg)
+![image](GDP_India.png)
 
 ## Cities by Gross Domestic Product
 ![image](GrossDomesticProduct.png)
