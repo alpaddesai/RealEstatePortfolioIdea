@@ -18,4 +18,6 @@ Please download the executable in https://github.com/alpaddesai/RealEstatePortfo
 ## Property Law 
 ![image](propertylaw_UK.jpg)
 
+![image](USCopyrightCertificate.png)
+
 Related topics include: https://github.com/alpaddesai/BenefitsOfFitnessRoutine, https://github.com/alpaddesai/HealthBenefitsOfTraveling, https://github.com/alpaddesai/BenefitsofMoving, https://github.com/alpaddesai/EarlyChildHoodEducation , https://github.com/alpaddesai/BenefitsOfLivingAbroad, https://github.com/alpaddesai/ElderlyCare, https://github.com/alpaddesai/FinancialAdvice,  https://github.com/alpaddesai/HealthCare and https://github.com/alpaddesai/SocialNetworking.
