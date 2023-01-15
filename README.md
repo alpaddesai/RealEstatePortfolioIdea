@@ -22,3 +22,4 @@ Please download the executable in https://github.com/alpaddesai/RealEstatePortfo
 
 ![image](USCopyrightCertificate.png)
 
+Additional details reference https://github.com/alpaddesai/LifeStyle
