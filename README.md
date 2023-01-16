@@ -15,9 +15,6 @@ Please download the executable in https://github.com/alpaddesai/RealEstatePortfo
 ## Cities by Gross Domestic Product 2020
 ![image](GrossDomesticProduct.png)
 
-## Property Law 
-![image](propertylaw_UK.jpg)
-
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
