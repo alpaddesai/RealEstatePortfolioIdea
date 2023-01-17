@@ -6,14 +6,8 @@ Confidential information is not displayed. Images are custom.
 
 Please download the executable in https://github.com/alpaddesai/RealEstatePortfolio/releases
 
-## Real Estate Data 2019
+## Real Estate Data 
 ![image](RealEstateImage.png)
-
-## Cities by Gross Domestic Product 2020
-![image](Indian_cities_GDP_2020.jpg)
-
-## Cities by Gross Domestic Product 2020
-![image](GrossDomesticProduct.png)
 
 ![image](EthicsandExcellence.png)
 
