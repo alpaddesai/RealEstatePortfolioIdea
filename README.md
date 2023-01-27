@@ -11,4 +11,4 @@ Confidential information is not displayed. Images are custom.
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/LifeStyle
+Additional details reference https://github.com/alpaddesai/TechnicalProjectManagement
